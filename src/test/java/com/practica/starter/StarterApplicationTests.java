@@ -1,13 +1,13 @@
-package com.practica.starter;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class StarterApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.practica.starter;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class StarterApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
